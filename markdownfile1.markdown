@@ -2,5 +2,5 @@ push command
 ==============
 
 Basically git **push** command push files into remote *repository*.
-version 6
+version 7
 
